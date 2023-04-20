@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "question": "2+2 = ",
+    "options": [
+        {
+          "answer": "It will be 5",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "It could be 3",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "Maybe 1",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "It will be 4",
+          "isCorrect": true
+        }
+    ]
+  },
+
+  {
+    "id": "2",
+    "question": "What is the Capital of Florida?",
+    "options": [
+        {
+          "answer": "Miami",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "Tallahassee",
+          "isCorrect": true
+        },
+
+        {
+          "answer": "Tampa",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "Jacksonville",
+          "isCorrect": false
+        }
+    ]
+  },
+
+  {
+    "id": "3",
+    "question": "What is the square root of 36?",
+    "options": [
+        {
+          "answer": "it is 5",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "it is 10",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "it is 6",
+          "isCorrect": true
+        },
+
+        {
+          "answer": "it is 4",
+          "isCorrect": false
+        }
+    ]
+  },
+
+  {
+    "id": "4",
+    "question": "What is the mascot of the professional football team for Miami?",
+    "options": [
+        {"answer": "The Bears",
+        "isCorrect": false},
+
+        {"answer": "The Lions",
+        "isCorrect": false},
+
+        {"answer": "The Rams",
+        "isCorrect": false},
+
+        {"answer": "The Dolphins",
+        "isCorrect": true}
+    ]
+  },
+
+  {
+    "id": "5",
+    "question": "How many games are there in a regular season of basketball?",
+    "options": [
+        {
+          "answer": "68",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "82",
+          "isCorrect": true
+        },
+
+        {
+          "answer": "74",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "110",
+          "isCorrect": false
+        }
+    ]
+  }
+
+]
