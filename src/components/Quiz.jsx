@@ -13,7 +13,6 @@ export default function Quiz() {
 
   const handleAnswer = (isCorrect) => {
     if (isCorrect === true) setScore(score+1);
-    console.log({score})
     const newQuizId = quizId + 1;
 
     if(newQuizId < quizLength)

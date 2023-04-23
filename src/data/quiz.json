@@ -1,51 +1,51 @@
 [
   {
     "id": "1",
-    "question": "2+2 = ",
+    "question": "What is the 2nd Amendment of the Constitution?",
     "options": [
         {
-          "answer": "It will be 5",
+          "answer": "Freedom of Speech",
           "isCorrect": false
         },
 
         {
-          "answer": "It could be 3",
+          "answer": "Search and Arrest",
           "isCorrect": false
         },
 
         {
-          "answer": "Maybe 1",
-          "isCorrect": false
-        },
-
-        {
-          "answer": "It will be 4",
+          "answer": "Right to Bear Arms",
           "isCorrect": true
+        },
+
+        {
+          "answer": "Right to a Fair Trial",
+          "isCorrect": false
         }
     ]
   },
 
   {
     "id": "2",
-    "question": "What is the Capital of Florida?",
+    "question": "What are the first 10 amendements called?",
     "options": [
         {
-          "answer": "Miami",
+          "answer": "Civil Rights",
           "isCorrect": false
         },
 
         {
-          "answer": "Tallahassee",
+          "answer": "Bill of Rights",
           "isCorrect": true
         },
 
         {
-          "answer": "Tampa",
+          "answer": "Commandments",
           "isCorrect": false
         },
 
         {
-          "answer": "Jacksonville",
+          "answer": "Non Constitutional Rights",
           "isCorrect": false
         }
     ]
@@ -53,69 +53,69 @@
 
   {
     "id": "3",
-    "question": "What is the square root of 36?",
+    "question": "Who is known as the Father of the Constitution?",
     "options": [
         {
-          "answer": "it is 5",
+          "answer": "Thomas Jefferson",
           "isCorrect": false
         },
 
         {
-          "answer": "it is 10",
+          "answer": "George Washington",
           "isCorrect": false
         },
 
         {
-          "answer": "it is 6",
+          "answer": "John Adams",
+          "isCorrect": false
+        },
+
+        {
+          "answer": "James Madison",
           "isCorrect": true
-        },
-
-        {
-          "answer": "it is 4",
-          "isCorrect": false
         }
     ]
   },
 
   {
     "id": "4",
-    "question": "What is the mascot of the professional football team for Miami?",
+    "question": "Which President abolished slavery?",
     "options": [
-        {"answer": "The Bears",
+        {"answer": "James Madison",
         "isCorrect": false},
 
-        {"answer": "The Lions",
+        {"answer": "Thomas Jefferson",
         "isCorrect": false},
 
-        {"answer": "The Rams",
-        "isCorrect": false},
+        {"answer": "Abraham Lincoln",
+        "isCorrect": true},
 
-        {"answer": "The Dolphins",
-        "isCorrect": true}
+        {"answer": "Theodore Roosevelt",
+        "isCorrect": false}
     ]
   },
 
   {
     "id": "5",
-    "question": "How many games are there in a regular season of basketball?",
+    "question": "Which General led the North to victory in the Civil War?",
     "options": [
         {
-          "answer": "68",
+          "answer": "Robert E Lee",
           "isCorrect": false
         },
 
         {
-          "answer": "82",
+          "answer": "Ulysses S Grant",
           "isCorrect": true
         },
 
         {
-          "answer": "74",
+          "answer": "Abraham Lincoln",
           "isCorrect": false
         },
 
         {
-          "answer": "110",
+          "answer": "Winfield Scott",
           "isCorrect": false
         }
     ]

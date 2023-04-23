@@ -7,7 +7,8 @@ export default function QuizCard({quizData, quizId, quizLength, handleAnswer}) {
       <Container className="quiz-card">
         <Row>
           <Col>
-          <h2>({quizId+1}/{quizLength}) {quizData[quizId].question}</h2>
+          <h2>Question: {quizId+1}</h2>
+          <h2>{quizData[quizId].question}</h2>
           <ul>
             {quizData[quizId].options.map(
               (quizOption, id) => {
